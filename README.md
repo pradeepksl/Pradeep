@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pradeep
+- 👀 I’m interested in coding and design
+- 🌱 I’m currently learning advanced topic on c++ and begginer level on python
+- 💞️ I’m looking to collaborate on latest technologies
+- 📫 You can reach me @ pradeepksl2020@gmail.com
